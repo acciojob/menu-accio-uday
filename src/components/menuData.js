@@ -36,7 +36,7 @@ const menuData = [
   },
   {
     id: 6,
-    name: "vanilla Shake",
+    name: "Vanilla Shake",
     category: "Shakes",
     price: "$4",
     image: "https://via.placeholder.com/100"
